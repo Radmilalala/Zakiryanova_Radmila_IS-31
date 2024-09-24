@@ -73,3 +73,6 @@ activate Chat
 Chat -> Viewer : broadcastMessage("подписывайтесь на тгк")
 deactivate Chat
 ```
+
+## 24.09
+## Добавлено изменение в файл
